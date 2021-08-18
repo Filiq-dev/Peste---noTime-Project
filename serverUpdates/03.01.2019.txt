@@ -1,0 +1,15 @@
+- factiunea Hitman Agency a fost terminata:
+   >> se poate pune un contract folosind /contract, pretul minim este $10.000;
+   >> un hitman poate vedea contractele folosind /contracts (tinta, suma de bani, cu cat timp in urma a fost pus ultimul contract pe tinta);
+   >> pentru a obtine un contract, hitmanul trebuie sa foloseasca /gethit, va primi un contract random, un skin random (de la 0, pana la 100, daca jucatorul moare in timp ce are contractul activ, acesta va primi alt skin random) si numele va fi ascuns pentru restul jucatorilor, pentru a vedea informatii despre propria tinta va folosi /mytarget;
+   >> se poate de anulat contract-ul folosind /leavehit;
+   >> tinta poate fi omorata doar cu SD Pistolul, Sniper-ul si Knife-ul, daca hitmanul rateaza iar glontul ajunge la cel putin 2m departare de tinta, aceasta va fi anuntata cum ca este urmarita de un membru al agentiei, fiind greseala hitmanului (doar daca trage cu sniper-ul);
+
+** Buguri rezolvate:
+- pe lista vehiculelor personale nu apareau toate masinile daca aveai mai mult de 9+ (marimea stringului);
+- cand foloseai o comanda inexistenta cu un nume prea lung:
+- cand foloseai /jobs si selectai un job, nu primeai CP catre locatia jobului;
+- rezolvate toate bugurile la commanda /getdrugs;
+- culoarea jucatorului nu se schimba dupa ce primeai uninvite de la un admin;
+
+Daca un jucator se va teleporta in mai mult de 3 masini intr-un interval de cel putin 1s, va primi Kick

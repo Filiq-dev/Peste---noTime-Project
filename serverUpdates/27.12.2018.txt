@@ -1,0 +1,4 @@
+- in loc de Respect Points (RP) vor fi Eureka Points (ekP);
+   * ramane de vazut cum vor fi castigate, probabil la joburi, la payday;
+- rezolvate bugurile raportate in #bugs ;
+- la sistemul de war au fost aduse cateva modificari si alte buguri rezolvate;

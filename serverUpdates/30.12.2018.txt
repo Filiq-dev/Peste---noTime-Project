@@ -1,0 +1,11 @@
+- la ora xx:45 reporterii vor fi anuntati ca peste 5 minute incep anunturile gratuite;
+- adaugata comanda /news pentru reporteri;
+- reporterii vor primi o camera cand se spawneaza in HQ;
+- adaugat optiunea de a face live pentru reporteri
+  > pentru a incepe un live, reporterul trebuie sa fie in HQ
+  > dupa ce ambii jucatori accepta confirmarea vor fi asezati pe scaune intr-un studio
+
+** Buguri rezolvate
+- la invite nu arata de catre cine ai fost invitat in mesajul trimis catre membrii factiunii
+- /duty nu merge in toate cazurile, "Trebuie sa fii in interiorul HQ-ului"
+- /mdc si /wanted nu afiseaza distanta corecta
