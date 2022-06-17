@@ -1,0 +1,3 @@
+- Finalizata comanda [/createbizz].
+- Rezolvate cateva buguri de la incarcarea biz-urilor din baza de date.
+- Creata comanda [/editbizz] prin care poti edita un biz, interior, tip-ul etc.

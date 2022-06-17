@@ -1,0 +1,2 @@
+- Au fost sterse joburile vechi, vor fi rescrise.
+- Au fost sterse comenzile [/getjob] si [/quitjob], acestea vor putea fi folosite prin tastele Y respectiv N.

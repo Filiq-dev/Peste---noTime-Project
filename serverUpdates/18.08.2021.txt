@@ -1,0 +1,14 @@
+- Scimbata comanda [/pset] in [/set]
+- Acum nu mai apare syntaxa la comanda [/givelicense] in caz de nu esti in S.I
+- Acum comanda [/gotojob] este pe dialog si se numeste [/gotojobs].
+- Nu mai ai nevoie de carnet de conducere pentru biciclete.
+- 
+    Acum sunt 2 spawnuri, primul spawn este acela cand intri prima oara pe server si esti la aeroport
+    Al 2-lea spawn este acela clasic, de pe bugged, acolo vor fi spawnati toti jucatorii care nu au casa, factiune etc.
+
+- Am adaugat la ambele spawnuri biciclete pentru jucatori.
+- Modificate unele lucruri din cod, lucruri inutile, prost scrie, modificate sau sterse.
+- Inceput sistemul de afaceri.
+    - Preluarea din baza de date si crerea lor atat pe mapa cat si fizice(pickup&label).
+    - Creata comanda [/createbiz].
+- Optimizat putin gamemode-ul.
